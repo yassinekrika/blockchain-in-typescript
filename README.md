@@ -20,7 +20,7 @@ Make sure you have Node.js installed. You can download it from [here](https://no
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yassinekrika/ blockchain-in-typescript.git
+   git clone https://github.com/yassinekrika/blockchain-in-typescript.git
    cd blockchain-in-typescript
    ````
 
